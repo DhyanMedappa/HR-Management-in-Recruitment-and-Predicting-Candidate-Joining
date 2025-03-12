@@ -1,0 +1,18 @@
+Technology Training Steps
+--------------------------
+1. First Download and Install Visual Studio and SQL Server in your laptop or desktop machine (visual studio and sql server both are shared and also installation process videos shared, check your mail).
+
+once u done with Visual Studio and SQL Server installation, follow the following Steps;
+--------------------------------------------------------------------------------------
+1. I have shared explanation videos on technology, u should watch all those videos to understand the technology used in your project work. totaly around 14 videos are there.
+2. After watching technology explanation videos, Work on assignments to get hold on the technologies used in your project work. (check your mail for assignments).
+
+How to work on Assignments:
+---------------------------
+1. Watch Video No. 1, 2 and 3 and work on Assigment 1 and Assignment 2.
+2. Watch Video No. 4, and 5 and work on Assigment 3. (important)
+3. Watch Video No. 6, 8 and 9 and work on Assigment 4.
+4. Watch Video No. 7 and 10 and work on Assigment 5.
+5. Watch Video No. 11 to understand how database is created in your project work using SQL Server.(important)
+6. Finally Watch Video No. 12.1, 12.2 and 12.3 to understand how your project is created and how basic modules programming is done. (this is most important, watch videos twice).
+-------------------------------------------------------------------------------------------------------------------------------------------------
